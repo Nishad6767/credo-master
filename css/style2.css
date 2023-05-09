@@ -1,0 +1,10 @@
+
+
+
+
+.form #first_error,
+.form #full_error,
+.form #mob_error,
+.form #email_error{
+    color: #c62828;
+}
